@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vn53fry/Documents/android/mvi-clean/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "94",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1120",
+                        "endColumns": "98",
+                        "endOffsets": "1214"
+                    }
+                },
+                {
+                    "source": "/Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "2983",
+                        "endColumns": "100",
+                        "endOffsets": "3079"
+                    }
+                },
+                {
+                    "source": "/Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "197,294,419,530,628,729,841,939,1027,1131,1228,1354,1465,1565,1669,1721,1774",
+                        "endColumns": "96,124,110,97,100,111,97,87,103,96,125,110,99,103,51,52,69",
+                        "endOffsets": "293,418,529,627,728,840,938,1026,1130,1227,1353,1464,1564,1668,1720,1773,1843"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "258,359,488,603,705,810,926,1028,1219,1327,1428,1558,1673,1777,1885,1941,1998",
+                        "endColumns": "100,128,114,101,104,115,101,91,107,100,129,114,103,107,55,56,73",
+                        "endOffsets": "354,483,598,700,805,921,1023,1115,1322,1423,1553,1668,1772,1880,1936,1993,2067"
+                    }
+                },
+                {
+                    "source": "/Users/vn53fry/.gradle/caches/transforms-3/d4708c0335dcd2f912cb60cf5f4fcfff/transformed/ui-1.2.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,343,434,511,585,670,748,823,888,953,1026,1101,1169,1235",
+                        "endColumns": "76,75,84,90,76,73,84,77,74,64,64,72,74,67,65,115",
+                        "endOffsets": "177,253,338,429,506,580,665,743,818,883,948,1021,1096,1164,1230,1346"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,32,33,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,2072,2157,2248,2325,2399,2484,2562,2637,2702,2767,2840,2915,3084,3150",
+                        "endColumns": "76,75,84,90,76,73,84,77,74,64,64,72,74,67,65,115",
+                        "endOffsets": "177,253,2152,2243,2320,2394,2479,2557,2632,2697,2762,2835,2910,2978,3145,3261"
+                    }
+                }
+            ]
+        }
+    ]
+}

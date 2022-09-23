@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/92514d81119ad7434e0f1ceff67cb534/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/85e1d6556d683a89fd6eb0e93168bb39/transformed/navigation-compose-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/73ecd5928aac90a97ddd0e66f101c170/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/a23b86bc26a49d08b4b3f7545769f016/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/f07c126b2229145dfcff6a06a05f97df/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/20fc8f86dae83ba244ad5c90062018da/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dc9d92f36dea7671aeb0aad67db925e5/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/c54f6e94beb273c024dbf9d559d7e739/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/ccf27b399f53bcd3b9a267fdcc848ef6/transformed/navigation-common-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ba1d63de2a9a4fdfceff833f7deb1f97/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d41a78207d4e3810c2ad9a2786af9706/transformed/material-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/vn53fry/.gradle/caches/transforms-3/5410396f68ed834a99014474fba4a59a/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/b9d228fa2f0318bfd39c02dde7d8eb71/transformed/material-ripple-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d36e7a451b30ceee350e262dca2073bd/transformed/foundation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/de280c92e6e4b1a58e537eb2676a65c0/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4b8421f3760ab15cee5249bc4f9f5199/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/507a560b7842b03640fa0badc52647fc/transformed/material-icons-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/1c61ec8202fc97cb46ad4052152fd2e7/transformed/foundation-layout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/2e9f9d7b2ce7dbe61d5b33269fa6b617/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/d4708c0335dcd2f912cb60cf5f4fcfff/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/961fabd349726bad834095c710a89791/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/32225bee70711e29377eaeaba9e9146a/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/fbe5f6c89b73986326dcdab82a3bb673/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/9daed708c106a682ca01096bb7564436/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/6ebf17b26260a5244cb3336fd8706569/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/509fc31b482169967b94eecbe40288c0/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4c88210547830f4413dcecf0634b42d3/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/19c3abe1a4885d463fdbe9f2a14be9c5/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/07826ad130e5da891e3a55dab91dd50f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/27e1bcd5f53916e66bacce42935dd56c/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/vn53fry/.gradle/caches/transforms-3/fb0420420efe02da82f8a279d3044b0b/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/99513f413e510735d9fe4f63a7696f7a/transformed/hilt-android-2.40.5/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/vn53fry/.gradle/caches/transforms-3/989606b1f0b42dc1fa2e18377f1dada9/transformed/play-services-location-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/7dcda38e90e02ee1e6e8ad2f00510e12/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/15b2ab8aa0be7a6075d30574a4b2050c/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/7ddd1b8716f32544a304a3edfcfff1ee/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vn53fry/.gradle/caches/transforms-3/269c7d5ec50a55383000a7ea1ca77673/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/919dba1db560c0df04e29dda7b480abd/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dedce86b30d2f4770e3e533e473451f8/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/f3ae040c050deb5cb8b43f7ae0559d1c/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/f36b3a3622e2b11e85dc57ef1bb09bc1/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/6c04506edb620d6665d88f27864d77ce/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/4b8787203c8bba60a2ab07b59622bb9c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/010831ccd6dc15411eb782c0f70014da/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ccbf0d06af27e8bcefb58dfab5fc1e7b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/a2f5575b94df8d139be369f86a891cb6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/04546df1e6be2f1bab750e45fb42a6f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0af0b95b9751e187e6feedb6d557bd3a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/17700d0b2a3e1bd5dc5ba9d15c07f496/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-3/214a5c0bb5281f239106caea37022cd5/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0a1284e13b77cc0605ed4aa89e2ccaea/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/5f2e7c79fa7c6e681ef70ae27f280d47/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vn53fry/.gradle/caches/transforms-3/eb99e8d99a906cd00d8f8b612098869c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/vn53fry/.gradle/caches/transforms-3/989606b1f0b42dc1fa2e18377f1dada9/transformed/play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/vn53fry/.gradle/caches/transforms-3/989606b1f0b42dc1fa2e18377f1dada9/transformed/play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/7ddd1b8716f32544a304a3edfcfff1ee/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/7ddd1b8716f32544a304a3edfcfff1ee/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/04546df1e6be2f1bab750e45fb42a6f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/04546df1e6be2f1bab750e45fb42a6f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:16:9-48
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:10:9-35
+activity#com.plcoding.weatherapp.presentation.MainActivity
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:18:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/92514d81119ad7434e0f1ceff67cb534/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/92514d81119ad7434e0f1ceff67cb534/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/85e1d6556d683a89fd6eb0e93168bb39/transformed/navigation-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/85e1d6556d683a89fd6eb0e93168bb39/transformed/navigation-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/73ecd5928aac90a97ddd0e66f101c170/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/73ecd5928aac90a97ddd0e66f101c170/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/a23b86bc26a49d08b4b3f7545769f016/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/a23b86bc26a49d08b4b3f7545769f016/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/f07c126b2229145dfcff6a06a05f97df/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/f07c126b2229145dfcff6a06a05f97df/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/20fc8f86dae83ba244ad5c90062018da/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/20fc8f86dae83ba244ad5c90062018da/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dc9d92f36dea7671aeb0aad67db925e5/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dc9d92f36dea7671aeb0aad67db925e5/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/c54f6e94beb273c024dbf9d559d7e739/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/c54f6e94beb273c024dbf9d559d7e739/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/ccf27b399f53bcd3b9a267fdcc848ef6/transformed/navigation-common-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] /Users/vn53fry/.gradle/caches/transforms-3/ccf27b399f53bcd3b9a267fdcc848ef6/transformed/navigation-common-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ba1d63de2a9a4fdfceff833f7deb1f97/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ba1d63de2a9a4fdfceff833f7deb1f97/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d41a78207d4e3810c2ad9a2786af9706/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d41a78207d4e3810c2ad9a2786af9706/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/vn53fry/.gradle/caches/transforms-3/5410396f68ed834a99014474fba4a59a/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/vn53fry/.gradle/caches/transforms-3/5410396f68ed834a99014474fba4a59a/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/b9d228fa2f0318bfd39c02dde7d8eb71/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/b9d228fa2f0318bfd39c02dde7d8eb71/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d36e7a451b30ceee350e262dca2073bd/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/d36e7a451b30ceee350e262dca2073bd/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/de280c92e6e4b1a58e537eb2676a65c0/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/de280c92e6e4b1a58e537eb2676a65c0/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4b8421f3760ab15cee5249bc4f9f5199/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4b8421f3760ab15cee5249bc4f9f5199/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/507a560b7842b03640fa0badc52647fc/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/507a560b7842b03640fa0badc52647fc/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/1c61ec8202fc97cb46ad4052152fd2e7/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/1c61ec8202fc97cb46ad4052152fd2e7/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/2e9f9d7b2ce7dbe61d5b33269fa6b617/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/2e9f9d7b2ce7dbe61d5b33269fa6b617/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/d4708c0335dcd2f912cb60cf5f4fcfff/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/d4708c0335dcd2f912cb60cf5f4fcfff/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/961fabd349726bad834095c710a89791/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/961fabd349726bad834095c710a89791/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/32225bee70711e29377eaeaba9e9146a/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/32225bee70711e29377eaeaba9e9146a/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/fbe5f6c89b73986326dcdab82a3bb673/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/fbe5f6c89b73986326dcdab82a3bb673/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/9daed708c106a682ca01096bb7564436/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/9daed708c106a682ca01096bb7564436/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/6ebf17b26260a5244cb3336fd8706569/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/6ebf17b26260a5244cb3336fd8706569/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/509fc31b482169967b94eecbe40288c0/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/509fc31b482169967b94eecbe40288c0/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4c88210547830f4413dcecf0634b42d3/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/4c88210547830f4413dcecf0634b42d3/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/19c3abe1a4885d463fdbe9f2a14be9c5/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/19c3abe1a4885d463fdbe9f2a14be9c5/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/07826ad130e5da891e3a55dab91dd50f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/07826ad130e5da891e3a55dab91dd50f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/27e1bcd5f53916e66bacce42935dd56c/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/27e1bcd5f53916e66bacce42935dd56c/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/vn53fry/.gradle/caches/transforms-3/fb0420420efe02da82f8a279d3044b0b/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/vn53fry/.gradle/caches/transforms-3/fb0420420efe02da82f8a279d3044b0b/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/99513f413e510735d9fe4f63a7696f7a/transformed/hilt-android-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/99513f413e510735d9fe4f63a7696f7a/transformed/hilt-android-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/vn53fry/.gradle/caches/transforms-3/989606b1f0b42dc1fa2e18377f1dada9/transformed/play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/vn53fry/.gradle/caches/transforms-3/989606b1f0b42dc1fa2e18377f1dada9/transformed/play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/7dcda38e90e02ee1e6e8ad2f00510e12/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/7dcda38e90e02ee1e6e8ad2f00510e12/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/15b2ab8aa0be7a6075d30574a4b2050c/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/15b2ab8aa0be7a6075d30574a4b2050c/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/7ddd1b8716f32544a304a3edfcfff1ee/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/7ddd1b8716f32544a304a3edfcfff1ee/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vn53fry/.gradle/caches/transforms-3/269c7d5ec50a55383000a7ea1ca77673/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vn53fry/.gradle/caches/transforms-3/269c7d5ec50a55383000a7ea1ca77673/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/919dba1db560c0df04e29dda7b480abd/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/vn53fry/.gradle/caches/transforms-3/919dba1db560c0df04e29dda7b480abd/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dedce86b30d2f4770e3e533e473451f8/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/dedce86b30d2f4770e3e533e473451f8/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/f3ae040c050deb5cb8b43f7ae0559d1c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/f3ae040c050deb5cb8b43f7ae0559d1c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/f36b3a3622e2b11e85dc57ef1bb09bc1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/f36b3a3622e2b11e85dc57ef1bb09bc1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/6c04506edb620d6665d88f27864d77ce/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/6c04506edb620d6665d88f27864d77ce/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/4b8787203c8bba60a2ab07b59622bb9c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/4b8787203c8bba60a2ab07b59622bb9c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/010831ccd6dc15411eb782c0f70014da/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/010831ccd6dc15411eb782c0f70014da/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ccbf0d06af27e8bcefb58dfab5fc1e7b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/ccbf0d06af27e8bcefb58dfab5fc1e7b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/a2f5575b94df8d139be369f86a891cb6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/a2f5575b94df8d139be369f86a891cb6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/04546df1e6be2f1bab750e45fb42a6f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/04546df1e6be2f1bab750e45fb42a6f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0af0b95b9751e187e6feedb6d557bd3a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0af0b95b9751e187e6feedb6d557bd3a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/17700d0b2a3e1bd5dc5ba9d15c07f496/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vn53fry/.gradle/caches/transforms-3/17700d0b2a3e1bd5dc5ba9d15c07f496/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-3/214a5c0bb5281f239106caea37022cd5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-3/214a5c0bb5281f239106caea37022cd5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0a1284e13b77cc0605ed4aa89e2ccaea/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vn53fry/.gradle/caches/transforms-3/0a1284e13b77cc0605ed4aa89e2ccaea/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/5f2e7c79fa7c6e681ef70ae27f280d47/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/vn53fry/.gradle/caches/transforms-3/5f2e7c79fa7c6e681ef70ae27f280d47/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vn53fry/.gradle/caches/transforms-3/eb99e8d99a906cd00d8f8b612098869c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vn53fry/.gradle/caches/transforms-3/eb99e8d99a906cd00d8f8b612098869c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vn53fry/.gradle/caches/transforms-3/41aa8b3f1b5b3ecf6a1c8347313107b9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

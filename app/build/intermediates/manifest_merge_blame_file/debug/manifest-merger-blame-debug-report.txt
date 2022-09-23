@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.plcoding.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:7:22-76
+14
+15    <application
+15-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:9:5-28:19
+16        android:name="com.plcoding.weatherapp.WeatherApp"
+16-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:10:9-35
+17        android:allowBackup="true"
+17-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] /Users/vn53fry/.gradle/caches/transforms-3/c7d4eac8c2b7d64bccd62f57eaeb7673/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:13:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:15:9-35
+24        android:theme="@style/Theme.WeatherApp" >
+24-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:16:9-48
+25        <activity
+25-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:17:9-27:20
+26            android:name="com.plcoding.weatherapp.presentation.MainActivity"
+26-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:18:13-54
+27            android:exported="true"
+27-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:19:13-36
+28            android:label="@string/app_name"
+28-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:20:13-45
+29            android:theme="@style/Theme.WeatherApp" >
+29-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:21:13-52
+30            <intent-filter>
+30-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:23:17-69
+31-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:25:17-77
+33-->/Users/vn53fry/Documents/android/mvi-clean/app/src/main/AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+37            android:name="androidx.compose.ui.tooling.PreviewActivity"
+37-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+38            android:exported="true" />
+38-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/vn53fry/.gradle/caches/transforms-3/a57e730046f8aa0ac925ca2c04d4bf1a/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+39        <activity
+39-->[com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+40            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+40-->[com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+41            android:exported="false"
+41-->[com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+42-->[com.google.android.gms:play-services-base:18.0.1] /Users/vn53fry/.gradle/caches/transforms-3/65a42558b99d1fa5b83607d3bd7fc373/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+43
+44        <meta-data
+44-->[com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+45            android:name="com.google.android.gms.version"
+45-->[com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+46            android:value="@integer/google_play_services_version" />
+46-->[com.google.android.gms:play-services-basement:18.0.0] /Users/vn53fry/.gradle/caches/transforms-3/7f1665f361d9b49b06e491bbd2f169c5/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+47
+48        <provider
+48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+50            android:authorities="com.plcoding.weatherapp.androidx-startup"
+50-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+51            android:exported="false" >
+51-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+52            <meta-data
+52-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+53                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+53-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+54                android:value="androidx.startup" />
+54-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+55        </provider>
+56
+57        <receiver
+57-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+58            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+58-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+59            android:directBootAware="false"
+59-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+60            android:enabled="true"
+60-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+61            android:exported="true"
+61-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+62            android:permission="android.permission.DUMP" >
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+63            <intent-filter>
+63-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+64                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+65            </intent-filter>
+66            <intent-filter>
+66-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+67                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/vn53fry/.gradle/caches/transforms-3/2df21d59676c3f5eb5ab8c79116a3aea/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+68            </intent-filter>
+69        </receiver>
+70    </application>
+71
+72</manifest>

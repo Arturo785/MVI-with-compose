@@ -1,0 +1,13 @@
+#Thu Sep 22 19:16:43 CDT 2022
+path.3=3/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/Users/vn53fry/Documents/android/mvi-clean/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/3/classes.dex
+base.2=/Users/vn53fry/Documents/android/mvi-clean/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/10/classes.dex
+base.1=/Users/vn53fry/Documents/android/mvi-clean/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.0=/Users/vn53fry/Documents/android/mvi-clean/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
